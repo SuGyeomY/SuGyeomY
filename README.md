@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+### This is my first GitHub ID
+### I want to learn more about GitHub
 <!--
 **SuGyeomY/SuGyeomY** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
